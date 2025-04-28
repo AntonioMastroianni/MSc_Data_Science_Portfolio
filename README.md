@@ -4,4 +4,4 @@ This repo stores all repositories related to university exam projects of the Dat
 ## 📚 List of Projects
 
 - [⚽ The Magic Formula to Score Goals](https://github.com/AntonioMastroianni/Machine-Learning-Exam)  
-  Data mining on football event data using association analysis and logistic regression.
+ Machine Learning exam on football event data using association analysis and logistic regression in order to determine the best sequence of events that lead do scoring a goal.
