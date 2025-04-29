@@ -8,3 +8,6 @@ This repo stores all repositories related to university exam projects of the Dat
 
 - [🎥 Merge and analysis movie data from IMDb and TMDB](https://github.com/AntonioMastroianni/Data-Management-Project)  
  Data Management exam on movie data, eploring DBMS and techniques.
+
+- [🌎 An alternative intervention approach for solving nutrition deprivation in Belize](https://github.com/AntonioMastroianni/Data-Science-Lab-Project)
+An analytical approach to tackling nutrition deprivation in Belize using housing conditions as a proxy for localized intervention planning.
