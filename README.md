@@ -7,4 +7,4 @@ This repo stores all repositories related to university exam projects of the Dat
  Machine Learning exam on football event data using association analysis and logistic regression in order to determine the best sequence of events that lead do scoring a goal.
 
 - [🎥 Merge and analysis movie data from IMDb and TMDB](https://github.com/AntonioMastroianni/Data-Management-Project)
-  Data Management exam on movie data, eploring DBMS and techniques.
+ Data Management exam on movie data, eploring DBMS and techniques.
