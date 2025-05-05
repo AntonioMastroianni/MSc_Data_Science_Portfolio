@@ -11,3 +11,8 @@ This repo stores all repositories related to university exam projects of the Dat
 
 - [🌎 An alternative intervention approach for solving nutrition deprivation in Belize](https://github.com/AntonioMastroianni/Data-Science-Lab-Project)
 An analytical approach to tackling nutrition deprivation in Belize using housing conditions as a proxy for localized intervention planning.
+
+- [🤖 Exploring Translation Models: A Comparative Study of Seq2Seq and LLM Architectures for English-Italian Machine Translation](https://github.com/Pakyy/NLP-Project---MT-en-it/tree/main)
+A study comparing different neural network architectures for English-Italian machine translation. The primary goal of the project is to evaluate the performance of Sequence-to-Sequence (Seq2Seq) models and Large Language Models (LLMs) under various training paradigms.
+
+
