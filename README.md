@@ -15,7 +15,7 @@ This repo stores all repositories related to university exam projects of the Dat
 - [🤖 Exploring Translation Models: A Comparative Study of Seq2Seq and LLM Architectures for English-Italian Machine Translation](https://github.com/Pakyy/NLP-Project---MT-en-it/tree/main)  
  A study comparing different neural network architectures for English-Italian machine translation. The primary goal of the project is to evaluate the performance of Sequence-to-Sequence (Seq2Seq) models and Large Language Models (LLMs) under various training paradigms.
 
-- [🏙️ Comparative Analysis of Open Data Ecosystems: A Case Study of the London DataStore and Comune di Milano](https://github.com/AntonioMastroianni/Smart-Cities-Project/tree/main)
+- [🏙️ Comparative Analysis of Open Data Ecosystems: A Case Study of the London DataStore and Comune di Milano](https://github.com/AntonioMastroianni/Smart-Cities-Project/tree/main)  
  Comparative analysis of the open data ecosystems of the London DataStore and the Comune di Milano Open Data Portal. Their development, adherence to open data principles, and practical utility for urban decision-making are evaluated.
 
 
