@@ -18,4 +18,9 @@ This repo stores all repositories related to university exam projects of the Dat
 - [🏙️ Comparative Analysis of Open Data Ecosystems: A Case Study of the London DataStore and Comune di Milano](https://github.com/AntonioMastroianni/Smart-Cities-Project/tree/main)  
  Comparative analysis of the open data ecosystems of the London DataStore and the Comune di Milano Open Data Portal. Their development, adherence to open data principles, and practical utility for urban decision-making are evaluated.
 
+- [🛰️ Predicting Census Area Typologies Using Deep Learning solutions:](https://github.com/AntonioMastroianni/MSc-Thesis)  
+ This research introduces a new method for validating and classifying ISTAT census areas. It combines geospatial data validation using the Google Maps Places API with deep learning techniques that utilize satellite imagery, enhanced by GPT-4o-assisted re-labeling. The 
+ approach aims to address the issue of outdated land-use classifications and has potential applications in real estate, urban planning, and geographic analysis.
+
+
 
